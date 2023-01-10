@@ -1,6 +1,4 @@
 import java.time.LocalDate;
-
-import com.desafio.dio.POO.dominio.Conteudo;
 import com.desafio.dio.POO.dominio.Curso;
 import com.desafio.dio.POO.dominio.Mentoria;
 
