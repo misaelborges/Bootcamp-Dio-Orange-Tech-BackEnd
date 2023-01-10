@@ -1,5 +1,6 @@
 import java.time.LocalDate;
 
+import com.desafio.dio.POO.dominio.Conteudo;
 import com.desafio.dio.POO.dominio.Curso;
 import com.desafio.dio.POO.dominio.Mentoria;
 
@@ -24,6 +25,6 @@ public class App {
         System.out.println(curso1);
         System.out.println(curso2);
         System.out.println(mentoria1);
-        
+
     }
 }
