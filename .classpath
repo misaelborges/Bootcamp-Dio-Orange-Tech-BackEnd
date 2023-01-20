@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Anatomia das Classes-1/java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="Anatomia das Classes-2/java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="Anatomia das Classes-3/java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="desafio-dio-POO/src"/>
+	<classpathentry kind="src" path="Exercicios/Arrays/ArrayMultidimencionais/src"/>
+	<classpathentry kind="src" path="Exercicios/Arrays/Consoantes/src"/>
+	<classpathentry kind="src" path="Exercicios/Arrays/NumerosAleatorios/src"/>
+	<classpathentry kind="src" path="Exercicios/Arrays/OrdemInversa/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/Fatorial/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/MaiorMedia/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/NomeIdade/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/Nota/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/ParImpar/src"/>
+	<classpathentry kind="src" path="Exercicios/Estrutura de Repetição/Tabuada/src"/>
+	<classpathentry kind="src" path="Exercicios/Metodos/Calculadora/src"/>
+	<classpathentry kind="src" path="Exercicios/Metodos/Emprestimo/src"/>
+	<classpathentry kind="src" path="Exercicios/Metodos/Mensagem/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Associacao/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Atribustos/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/CriacaoClasses/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Heranca/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Heranca2/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Interface/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Metodos/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Objetos/src"/>
+	<classpathentry kind="src" path="Exercicios/Programação Orientada a Objetos/Polimorfismo/src"/>
+	<classpathentry kind="src" path="Exercicios/Retornos/Quadrilatero/src"/>
+	<classpathentry kind="src" path="Exercicios/Sobre Carga/Quadrilatero/src"/>
+	<classpathentry kind="src" path="Metodos-1/exemplo-metodo/src"/>
+	<classpathentry kind="src" path="my-first-web-api/src/main/java"/>
+	<classpathentry kind="src" path="my-first-web-api/src/test/java"/>
+	<classpathentry kind="src" path="Operadores-1/operadores/src"/>
+	<classpathentry kind="src" path="Operadores-2/operadores/src"/>
+	<classpathentry kind="src" path="Operadores-3/operadores/src"/>
+	<classpathentry kind="src" path="Operadores-4/operadores/src"/>
+	<classpathentry kind="src" path="Operadores-5/operadores/src"/>
+	<classpathentry kind="src" path="Operadores-6/operadores/src"/>
+	<classpathentry kind="src" path="primeiros-passos/src/main/java"/>
+	<classpathentry kind="src" path="primeiros-passos/src/test/java"/>
+	<classpathentry kind="src" path="Tipo e Variaveis-1/tipos-variaveis/src"/>
+	<classpathentry kind="src" path="Tipo e Variaveis-2/tipos-variaveis/src"/>
+	<classpathentry kind="src" path="Tipo e Variaveis-3/tipos-variaveis/src"/>
+	<classpathentry kind="lib" path="my-first-web-api/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="primeiros-passos/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="Anatomia das Classes-1/java-anatomia-classes/bin"/>
+</classpath>
